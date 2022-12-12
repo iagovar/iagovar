@@ -1,5 +1,5 @@
 
-This is my personal repo. I have another one at [[gitlab](https)](https://gitlab.com/iagovar), mostly for private repos. 
+This is my personal repo. I have another one at [gitlab](https://gitlab.com/iagovar), mostly for private repos. 
 
 - Wanna contact me? [Link](https://iagovar.com/contacto).
 - Wanna see what I'm interested in, besides software? [1](https://iagovar.com/traducciones) [2](https://iagovar.com/datos).
