@@ -1,7 +1,7 @@
 
 This is my personal repo. I have another one at [gitlab](https://gitlab.com/iagovar), mostly for private repos. 
 
-- Wanna contact me? [Link](https://iagovar.com/contacto).
+- Wanna contact me? [Link](https://iagovar.com/contact).
 - Wanna see what I'm interested in, besides software? [Check my website articles](https://iagovar.com/articles).
 
 ## What is this profile about
