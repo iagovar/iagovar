@@ -6,7 +6,7 @@ This is my personal repo. I have another one at [gitlab](https://gitlab.com/iago
 
 ## What is this profile about
 
-- I'm learning @ FullStackOpen. Link to [website]([https://open-bootcamp.com/](https://fullstackopen.com/en/).
+- I'm learning @ FullStackOpen. Link to [website](https://fullstackopen.com/en/).
 
   I have previous experience with HTML, CSS and Python. FSO Is mostly about React, Redux, Node.js, MongoDB, GraphQL and TypeScript.
   
